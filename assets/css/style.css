@@ -1,0 +1,11 @@
+article {
+    display: inline-block;
+    width: 300px;
+    color: black;
+    border: 2px solid black;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
